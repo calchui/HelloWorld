@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is develop branch
 
 
@@ -9,3 +10,6 @@ hello review.
 update file on oct. 2, 2023
 helloworld: testing gitbash
 
+=======
+this is develop bracnh
+>>>>>>> origin/develop
